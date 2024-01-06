@@ -1,0 +1,1574 @@
+{
+    "Bitcoin": {
+        "id": 1,
+        "symbol": "BTC",
+        "rank": 1,
+        "slug": "bitcoin"
+    },
+    "Litecoin": {
+        "id": 2,
+        "symbol": "LTC",
+        "rank": 18,
+        "slug": "litecoin"
+    },
+    "XRP": {
+        "id": 52,
+        "symbol": "XRP",
+        "rank": 6,
+        "slug": "xrp"
+    },
+    "Dogecoin": {
+        "id": 74,
+        "symbol": "DOGE",
+        "rank": 10,
+        "slug": "dogecoin"
+    },
+    "DigiByte": {
+        "id": 109,
+        "symbol": "DGB",
+        "rank": 269,
+        "slug": "digibyte"
+    },
+    "Dash": {
+        "id": 131,
+        "symbol": "DASH",
+        "rank": 140,
+        "slug": "dash"
+    },
+    "Stellar": {
+        "id": 512,
+        "symbol": "XLM",
+        "rank": 24,
+        "slug": "stellar"
+    },
+    "Syscoin": {
+        "id": 541,
+        "symbol": "SYS",
+        "rank": 352,
+        "slug": "syscoin"
+    },
+    "Verge": {
+        "id": 693,
+        "symbol": "XVG",
+        "rank": 456,
+        "slug": "verge"
+    },
+    "ARbit": {
+        "id": 938,
+        "symbol": "ARB",
+        "rank": 7535,
+        "slug": "arbit"
+    },
+    "Ethereum": {
+        "id": 1027,
+        "symbol": "ETH",
+        "rank": 2,
+        "slug": "ethereum"
+    },
+    "Memetic / PepeCoin": {
+        "id": 1191,
+        "symbol": "MEME",
+        "rank": 4325,
+        "slug": "memetic"
+    },
+    "Ethereum Classic": {
+        "id": 1321,
+        "symbol": "ETC",
+        "rank": 29,
+        "slug": "ethereum-classic"
+    },
+    "Neo": {
+        "id": 1376,
+        "symbol": "NEO",
+        "rank": 73,
+        "slug": "neo"
+    },
+    "Zcash": {
+        "id": 1437,
+        "symbol": "ZEC",
+        "rank": 121,
+        "slug": "zcash"
+    },
+    "Maker": {
+        "id": 1518,
+        "symbol": "MKR",
+        "rank": 57,
+        "slug": "maker"
+    },
+    "Komodo": {
+        "id": 1521,
+        "symbol": "KMD",
+        "rank": 580,
+        "slug": "komodo"
+    },
+    "Ark": {
+        "id": 1586,
+        "symbol": "ARK",
+        "rank": 266,
+        "slug": "ark"
+    },
+    "iExec RLC": {
+        "id": 1637,
+        "symbol": "RLC",
+        "rank": 324,
+        "slug": "rlc"
+    },
+    "Aragon": {
+        "id": 1680,
+        "symbol": "ANT",
+        "rank": 183,
+        "slug": "aragon"
+    },
+    "Basic Attention Token": {
+        "id": 1697,
+        "symbol": "BAT",
+        "rank": 138,
+        "slug": "basic-attention-token"
+    },
+    "Horizen": {
+        "id": 1698,
+        "symbol": "ZEN",
+        "rank": 306,
+        "slug": "horizen"
+    },
+    "IOTA": {
+        "id": 1720,
+        "symbol": "IOTA",
+        "rank": 77,
+        "slug": "iota"
+    },
+    "Bancor": {
+        "id": 1727,
+        "symbol": "BNT",
+        "rank": 351,
+        "slug": "bancor"
+    },
+    "EOS": {
+        "id": 1765,
+        "symbol": "EOS",
+        "rank": 74,
+        "slug": "eos"
+    },
+    "Gas": {
+        "id": 1785,
+        "symbol": "GAS",
+        "rank": 122,
+        "slug": "gas"
+    },
+    "Metal DAO": {
+        "id": 1788,
+        "symbol": "MTL",
+        "rank": 343,
+        "slug": "metal"
+    },
+    "OMG Network": {
+        "id": 1808,
+        "symbol": "OMG",
+        "rank": 327,
+        "slug": "omg"
+    },
+    "Civic": {
+        "id": 1816,
+        "symbol": "CVC",
+        "rank": 348,
+        "slug": "civic"
+    },
+    "BNB": {
+        "id": 1839,
+        "symbol": "BNB",
+        "rank": 5,
+        "slug": "bnb"
+    },
+    "OAX": {
+        "id": 1853,
+        "symbol": "OAX",
+        "rank": 881,
+        "slug": "oax"
+    },
+    "Dent": {
+        "id": 1886,
+        "symbol": "DENT",
+        "rank": 299,
+        "slug": "dent"
+    },
+    "0x Protocol": {
+        "id": 1896,
+        "symbol": "ZRX",
+        "rank": 160,
+        "slug": "0x"
+    },
+    "Loopring": {
+        "id": 1934,
+        "symbol": "LRC",
+        "rank": 129,
+        "slug": "loopring"
+    },
+    "TRON": {
+        "id": 1958,
+        "symbol": "TRX",
+        "rank": 13,
+        "slug": "tron"
+    },
+    "Decentraland": {
+        "id": 1966,
+        "symbol": "MANA",
+        "rank": 69,
+        "slug": "decentraland"
+    },
+    "Chainlink": {
+        "id": 1975,
+        "symbol": "LINK",
+        "rank": 14,
+        "slug": "chainlink"
+    },
+    "Cardano": {
+        "id": 2010,
+        "symbol": "ADA",
+        "rank": 8,
+        "slug": "cardano"
+    },
+    "Tezos": {
+        "id": 2011,
+        "symbol": "XTZ",
+        "rank": 67,
+        "slug": "tezos"
+    },
+    "Enjin Coin": {
+        "id": 2130,
+        "symbol": "ENJ",
+        "rank": 137,
+        "slug": "enjin-coin"
+    },
+    "Filecoin": {
+        "id": 2280,
+        "symbol": "FIL",
+        "rank": 25,
+        "slug": "filecoin"
+    },
+    "StormX": {
+        "id": 2297,
+        "symbol": "STMX",
+        "rank": 397,
+        "slug": "stormx"
+    },
+    "BigONE Token": {
+        "id": 2324,
+        "symbol": "ONE",
+        "rank": 1163,
+        "slug": "bigone-token"
+    },
+    "Game.com": {
+        "id": 2336,
+        "symbol": "GTC",
+        "rank": 3838,
+        "slug": "game"
+    },
+    "Measurable Data Token": {
+        "id": 2348,
+        "symbol": "MDT",
+        "rank": 585,
+        "slug": "measurable-data-token"
+    },
+    "SelfKey": {
+        "id": 2398,
+        "symbol": "KEY",
+        "rank": 635,
+        "slug": "selfkey"
+    },
+    "IOST": {
+        "id": 2405,
+        "symbol": "IOST",
+        "rank": 244,
+        "slug": "iostoken"
+    },
+    "Theta Network": {
+        "id": 2416,
+        "symbol": "THETA",
+        "rank": 60,
+        "slug": "theta-network"
+    },
+    "SingularityNET": {
+        "id": 2424,
+        "symbol": "AGIX",
+        "rank": 132,
+        "slug": "singularitynet"
+    },
+    "Hydro Protocol": {
+        "id": 2430,
+        "symbol": "HOT",
+        "rank": 7388,
+        "slug": "hydro-protocol"
+    },
+    "Bluzelle": {
+        "id": 2505,
+        "symbol": "BLZ",
+        "rank": 290,
+        "slug": "bluzelle"
+    },
+    "Ren": {
+        "id": 2539,
+        "symbol": "REN",
+        "rank": 437,
+        "slug": "ren"
+    },
+    "Ontology": {
+        "id": 2566,
+        "symbol": "ONT",
+        "rank": 181,
+        "slug": "ontology"
+    },
+    "Ravencoin": {
+        "id": 2577,
+        "symbol": "RVN",
+        "rank": 170,
+        "slug": "ravencoin"
+    },
+    "Synthetix": {
+        "id": 2586,
+        "symbol": "SNX",
+        "rank": 62,
+        "slug": "synthetix"
+    },
+    "Loom Network": {
+        "id": 2588,
+        "symbol": "LOOM",
+        "rank": 309,
+        "slug": "loom-network"
+    },
+    "Holo": {
+        "id": 2682,
+        "symbol": "HOT",
+        "rank": 127,
+        "slug": "holo"
+    },
+    "IoTeX": {
+        "id": 2777,
+        "symbol": "IOTX",
+        "rank": 116,
+        "slug": "iotex"
+    },
+    "NKN": {
+        "id": 2780,
+        "symbol": "NKN",
+        "rank": 390,
+        "slug": "nkn"
+    },
+    "Rocket Pool": {
+        "id": 2943,
+        "symbol": "RPL",
+        "rank": 97,
+        "slug": "rocket-pool"
+    },
+    "Thore Cash": {
+        "id": 3056,
+        "symbol": "TCH",
+        "rank": 7708,
+        "slug": "thore-cash"
+    },
+    "VeChain": {
+        "id": 3077,
+        "symbol": "VET",
+        "rank": 36,
+        "slug": "vechain"
+    },
+    "Quant": {
+        "id": 3155,
+        "symbol": "QNT",
+        "rank": 52,
+        "slug": "quant"
+    },
+    "Fantom": {
+        "id": 3513,
+        "symbol": "FTM",
+        "rank": 59,
+        "slug": "fantom"
+    },
+    "Livepeer": {
+        "id": 3640,
+        "symbol": "LPT",
+        "rank": 184,
+        "slug": "livepeer"
+    },
+    "LTO Network": {
+        "id": 3714,
+        "symbol": "LTO",
+        "rank": 609,
+        "slug": "lto-network"
+    },
+    "Ankr": {
+        "id": 3783,
+        "symbol": "ANKR",
+        "rank": 171,
+        "slug": "ankr"
+    },
+    "Cosmos": {
+        "id": 3794,
+        "symbol": "ATOM",
+        "rank": 22,
+        "slug": "cosmos"
+    },
+    "TigerCash": {
+        "id": 3806,
+        "symbol": "TCH",
+        "rank": 1859,
+        "slug": "tigercash"
+    },
+    "Celer Network": {
+        "id": 3814,
+        "symbol": "CELR",
+        "rank": 254,
+        "slug": "celer-network"
+    },
+    "Verasity": {
+        "id": 3816,
+        "symbol": "VRA",
+        "rank": 434,
+        "slug": "verasity"
+    },
+    "Orbs": {
+        "id": 3835,
+        "symbol": "ORBS",
+        "rank": 320,
+        "slug": "orbs"
+    },
+    "Lition": {
+        "id": 3870,
+        "symbol": "LIT",
+        "rank": 6644,
+        "slug": "lition"
+    },
+    "Polygon": {
+        "id": 3890,
+        "symbol": "MATIC",
+        "rank": 12,
+        "slug": "polygon"
+    },
+    "Ocean Protocol": {
+        "id": 3911,
+        "symbol": "OCEAN",
+        "rank": 167,
+        "slug": "ocean-protocol"
+    },
+    "IDEX": {
+        "id": 3928,
+        "symbol": "IDEX",
+        "rank": 575,
+        "slug": "idex"
+    },
+    "Harmony": {
+        "id": 3945,
+        "symbol": "ONE",
+        "rank": 177,
+        "slug": "harmony"
+    },
+    "Reserve Rights": {
+        "id": 3964,
+        "symbol": "RSR",
+        "rank": 265,
+        "slug": "reserve-rights"
+    },
+    "Chromia": {
+        "id": 3978,
+        "symbol": "CHR",
+        "rank": 271,
+        "slug": "chromia"
+    },
+    "COTI": {
+        "id": 3992,
+        "symbol": "COTI",
+        "rank": 374,
+        "slug": "coti"
+    },
+    "Algorand": {
+        "id": 4030,
+        "symbol": "ALGO",
+        "rank": 47,
+        "slug": "algorand"
+    },
+    "ARPA": {
+        "id": 4039,
+        "symbol": "ARPA",
+        "rank": 433,
+        "slug": "arpa-chain"
+    },
+    "Chiliz": {
+        "id": 4066,
+        "symbol": "CHZ",
+        "rank": 93,
+        "slug": "chiliz"
+    },
+    "Dusk": {
+        "id": 4092,
+        "symbol": "DUSK",
+        "rank": 401,
+        "slug": "dusk"
+    },
+    "THORChain": {
+        "id": 4157,
+        "symbol": "RUNE",
+        "rank": 46,
+        "slug": "thorchain"
+    },
+    "Klaytn": {
+        "id": 4256,
+        "symbol": "KLAY",
+        "rank": 76,
+        "slug": "klaytn"
+    },
+    "COMBO": {
+        "id": 4275,
+        "symbol": "COMBO",
+        "rank": 490,
+        "slug": "combo-network"
+    },
+    "Defi": {
+        "id": 4276,
+        "symbol": "DEFI",
+        "rank": 7806,
+        "slug": "defi"
+    },
+    "UNICORN Token": {
+        "id": 4307,
+        "symbol": "UNI",
+        "rank": 2147,
+        "slug": "unicorn-token"
+    },
+    "Flow": {
+        "id": 4558,
+        "symbol": "FLOW",
+        "rank": 58,
+        "slug": "flow"
+    },
+    "Hedera": {
+        "id": 4642,
+        "symbol": "HBAR",
+        "rank": 31,
+        "slug": "hedera"
+    },
+    "Band Protocol": {
+        "id": 4679,
+        "symbol": "BAND",
+        "rank": 159,
+        "slug": "band-protocol"
+    },
+    "dForce": {
+        "id": 4758,
+        "symbol": "DF",
+        "rank": 781,
+        "slug": "dforce"
+    },
+    "Tellor": {
+        "id": 4944,
+        "symbol": "TRB",
+        "rank": 120,
+        "slug": "tellor"
+    },
+    "Nervos Network": {
+        "id": 4948,
+        "symbol": "CKB",
+        "rank": 264,
+        "slug": "nervos-network"
+    },
+    "Kusama": {
+        "id": 5034,
+        "symbol": "KSM",
+        "rank": 134,
+        "slug": "kusama"
+    },
+    "Origin Protocol": {
+        "id": 5117,
+        "symbol": "OGN",
+        "rank": 410,
+        "slug": "origin-protocol"
+    },
+    "Galatasaray Fan Token": {
+        "id": 5228,
+        "symbol": "GAL",
+        "rank": 902,
+        "slug": "galatasaray-fan-token"
+    },
+    "Celo": {
+        "id": 5567,
+        "symbol": "CELO",
+        "rank": 126,
+        "slug": "celo"
+    },
+    "UMA": {
+        "id": 5617,
+        "symbol": "UMA",
+        "rank": 260,
+        "slug": "uma"
+    },
+    "Arweave": {
+        "id": 5632,
+        "symbol": "AR",
+        "rank": 95,
+        "slug": "arweave"
+    },
+    "Kadena": {
+        "id": 5647,
+        "symbol": "KDA",
+        "rank": 136,
+        "slug": "kadena"
+    },
+    "Render": {
+        "id": 5690,
+        "symbol": "RNDR",
+        "rank": 49,
+        "slug": "render"
+    },
+    "SKALE": {
+        "id": 5691,
+        "symbol": "SKL",
+        "rank": 130,
+        "slug": "skale-network"
+    },
+    "Compound": {
+        "id": 5692,
+        "symbol": "COMP",
+        "rank": 119,
+        "slug": "compound"
+    },
+    "Balancer": {
+        "id": 5728,
+        "symbol": "BAL",
+        "rank": 188,
+        "slug": "balancer"
+    },
+    "Avalanche": {
+        "id": 5805,
+        "symbol": "AVAX",
+        "rank": 9,
+        "slug": "avalanche"
+    },
+    "Smooth Love Potion": {
+        "id": 5824,
+        "symbol": "SLP",
+        "rank": 307,
+        "slug": "smooth-love-potion"
+    },
+    "yearn.finance": {
+        "id": 5864,
+        "symbol": "YFI",
+        "rank": 180,
+        "slug": "yearn-finance"
+    },
+    "Frontier": {
+        "id": 5893,
+        "symbol": "FRONT",
+        "rank": 606,
+        "slug": "frontier"
+    },
+    "Shiba Inu": {
+        "id": 5994,
+        "symbol": "SHIB",
+        "rank": 16,
+        "slug": "shiba-inu"
+    },
+    "The Sandbox": {
+        "id": 6210,
+        "symbol": "SAND",
+        "rank": 61,
+        "slug": "the-sandbox"
+    },
+    "NEAR Protocol": {
+        "id": 6535,
+        "symbol": "NEAR",
+        "rank": 23,
+        "slug": "near-protocol"
+    },
+    "Polkadot": {
+        "id": 6636,
+        "symbol": "DOT",
+        "rank": 11,
+        "slug": "polkadot-new"
+    },
+    "The Graph": {
+        "id": 6719,
+        "symbol": "GRT",
+        "rank": 42,
+        "slug": "the-graph"
+    },
+    "SushiSwap": {
+        "id": 6758,
+        "symbol": "SUSHI",
+        "rank": 165,
+        "slug": "sushiswap"
+    },
+    "Axie Infinity": {
+        "id": 6783,
+        "symbol": "AXS",
+        "rank": 63,
+        "slug": "axie-infinity"
+    },
+    "Litentry": {
+        "id": 6833,
+        "symbol": "LIT",
+        "rank": 581,
+        "slug": "litentry"
+    },
+    "Moonbeam": {
+        "id": 6836,
+        "symbol": "GLMR",
+        "rank": 141,
+        "slug": "moonbeam"
+    },
+    "Phala Network": {
+        "id": 6841,
+        "symbol": "PHA",
+        "rank": 417,
+        "slug": "phala-network"
+    },
+    "Radworks": {
+        "id": 6843,
+        "symbol": "RAD",
+        "rank": 368,
+        "slug": "radworks"
+    },
+    "MultiversX": {
+        "id": 6892,
+        "symbol": "EGLD",
+        "rank": 48,
+        "slug": "multiversx-egld"
+    },
+    "Bella Protocol": {
+        "id": 6928,
+        "symbol": "BEL",
+        "rank": 541,
+        "slug": "bella-protocol"
+    },
+    "Perpetual Protocol": {
+        "id": 6950,
+        "symbol": "PERP",
+        "rank": 377,
+        "slug": "perpetual-protocol"
+    },
+    "Alchemy Pay": {
+        "id": 6958,
+        "symbol": "ACH",
+        "rank": 275,
+        "slug": "alchemy-pay"
+    },
+    "BakeryToken": {
+        "id": 7064,
+        "symbol": "BAKE",
+        "rank": 280,
+        "slug": "bakerytoken"
+    },
+    "Gala": {
+        "id": 7080,
+        "symbol": "GALA",
+        "rank": 83,
+        "slug": "gala"
+    },
+    "Uniswap": {
+        "id": 7083,
+        "symbol": "UNI",
+        "rank": 21,
+        "slug": "uniswap"
+    },
+    "Linear Finance": {
+        "id": 7102,
+        "symbol": "LINA",
+        "rank": 466,
+        "slug": "linear"
+    },
+    "Flamingo": {
+        "id": 7150,
+        "symbol": "FLM",
+        "rank": 508,
+        "slug": "flamingo"
+    },
+    "Injective": {
+        "id": 7226,
+        "symbol": "INJ",
+        "rank": 30,
+        "slug": "injective"
+    },
+    "cVault.finance": {
+        "id": 7242,
+        "symbol": "CORE",
+        "rank": 5002,
+        "slug": "cvault-finance"
+    },
+    "APEcoin.dev": {
+        "id": 7257,
+        "symbol": "APE",
+        "rank": 2749,
+        "slug": "apecoin"
+    },
+    "Aave": {
+        "id": 7278,
+        "symbol": "AAVE",
+        "rank": 53,
+        "slug": "aave"
+    },
+    "Truebit": {
+        "id": 7296,
+        "symbol": "TRU",
+        "rank": 2893,
+        "slug": "truebit"
+    },
+    "Conflux": {
+        "id": 7334,
+        "symbol": "CFX",
+        "rank": 91,
+        "slug": "conflux-network"
+    },
+    "BarnBridge": {
+        "id": 7440,
+        "symbol": "BOND",
+        "rank": 612,
+        "slug": "barnbridge"
+    },
+    "WOO Network": {
+        "id": 7501,
+        "symbol": "WOO",
+        "rank": 87,
+        "slug": "wootrade"
+    },
+    "Oasis Network": {
+        "id": 7653,
+        "symbol": "ROSE",
+        "rank": 78,
+        "slug": "oasis-network"
+    },
+    "Unifi Protocol DAO": {
+        "id": 7672,
+        "symbol": "UNFI",
+        "rank": 545,
+        "slug": "unifi-protocol-dao"
+    },
+    "TrueFi": {
+        "id": 7725,
+        "symbol": "TRU",
+        "rank": 463,
+        "slug": "truefi-token"
+    },
+    "Badger DAO": {
+        "id": 7859,
+        "symbol": "BADGER",
+        "rank": 412,
+        "slug": "badger-dao"
+    },
+    "Bonfida": {
+        "id": 7978,
+        "symbol": "FIDA",
+        "rank": 592,
+        "slug": "bonfida"
+    },
+    "Lido DAO": {
+        "id": 8000,
+        "symbol": "LDO",
+        "rank": 35,
+        "slug": "lido-dao"
+    },
+    "1inch Network": {
+        "id": 8104,
+        "symbol": "1INCH",
+        "rank": 108,
+        "slug": "1inch"
+    },
+    "SafePal": {
+        "id": 8119,
+        "symbol": "SFP",
+        "rank": 153,
+        "slug": "safepal"
+    },
+    "Unique One": {
+        "id": 8125,
+        "symbol": "RARE",
+        "rank": 7919,
+        "slug": "unique-one"
+    },
+    "QuickSwap [Old]": {
+        "id": 8206,
+        "symbol": "QUICK",
+        "rank": 642,
+        "slug": "quickswap"
+    },
+    "Prosper": {
+        "id": 8255,
+        "symbol": "PROS",
+        "rank": 904,
+        "slug": "prosper"
+    },
+    "Furucombo": {
+        "id": 8259,
+        "symbol": "COMBO",
+        "rank": 1649,
+        "slug": "furucombo"
+    },
+    "JasmyCoin": {
+        "id": 8425,
+        "symbol": "JASMY",
+        "rank": 152,
+        "slug": "jasmy"
+    },
+    "Everest": {
+        "id": 8495,
+        "symbol": "ID",
+        "rank": 1172,
+        "slug": "everest"
+    },
+    "Mask Network": {
+        "id": 8536,
+        "symbol": "MASK",
+        "rank": 164,
+        "slug": "mask-network"
+    },
+    "Ethernity": {
+        "id": 8615,
+        "symbol": "ERN",
+        "rank": 569,
+        "slug": "ethernity-chain"
+    },
+    "Illuvium": {
+        "id": 8719,
+        "symbol": "ILV",
+        "rank": 150,
+        "slug": "illuvium"
+    },
+    "MyNeighborAlice": {
+        "id": 8766,
+        "symbol": "ALICE",
+        "rank": 361,
+        "slug": "myneighboralice"
+    },
+    "Internet Computer": {
+        "id": 8916,
+        "symbol": "ICP",
+        "rank": 17,
+        "slug": "internet-computer"
+    },
+    "MoMo KEY": {
+        "id": 9302,
+        "symbol": "KEY",
+        "rank": 7031,
+        "slug": "momo-key"
+    },
+    "Vulcan Forged PYR": {
+        "id": 9308,
+        "symbol": "PYR",
+        "rank": 195,
+        "slug": "vulcan-forged-pyr"
+    },
+    "Kyber Network Crystal v2": {
+        "id": 9444,
+        "symbol": "KNC",
+        "rank": 333,
+        "slug": "kyber-network-crystal-v2"
+    },
+    "Pendle": {
+        "id": 9481,
+        "symbol": "PENDLE",
+        "rank": 169,
+        "slug": "pendle"
+    },
+    "BinaryX (old)": {
+        "id": 9891,
+        "symbol": "BNX",
+        "rank": 3082,
+        "slug": "binaryx"
+    },
+    "Convex Finance": {
+        "id": 9903,
+        "symbol": "CVX",
+        "rank": 156,
+        "slug": "convex-finance"
+    },
+    "Rune": {
+        "id": 9905,
+        "symbol": "RUNE",
+        "rank": 2043,
+        "slug": "rune"
+    },
+    "Gitcoin": {
+        "id": 10052,
+        "symbol": "GTC",
+        "rank": 370,
+        "slug": "gitcoin"
+    },
+    "Gomining": {
+        "id": 10180,
+        "symbol": "GMT",
+        "rank": 357,
+        "slug": "gomining-token"
+    },
+    "Automata Network": {
+        "id": 10188,
+        "symbol": "ATA",
+        "rank": 510,
+        "slug": "automata-network"
+    },
+    "Cryptex Finance": {
+        "id": 10368,
+        "symbol": "CTX",
+        "rank": 882,
+        "slug": "cryptex-finance"
+    },
+    "Memecoin": {
+        "id": 28301,
+        "symbol": "MEME",
+        "rank": 185,
+        "slug": "meme"
+    },
+    "Sun (New)": {
+        "id": 10529,
+        "symbol": "SUN",
+        "rank": 418,
+        "slug": "sun-token"
+    },
+    "Yield Guild Games": {
+        "id": 10688,
+        "symbol": "YGG",
+        "rank": 315,
+        "slug": "yield-guild-games"
+    },
+    "Biswap": {
+        "id": 10746,
+        "symbol": "BSW",
+        "rank": 521,
+        "slug": "biswap"
+    },
+    "FLOKI": {
+        "id": 10804,
+        "symbol": "FLOKI",
+        "rank": 151,
+        "slug": "floki-inu"
+    },
+    "Shiba Floki Inu": {
+        "id": 10901,
+        "symbol": "FLOKI",
+        "rank": 6554,
+        "slug": "shiba-floki"
+    },
+    "Highstreet": {
+        "id": 11232,
+        "symbol": "HIGH",
+        "rank": 402,
+        "slug": "highstreet"
+    },
+    "Spell Token": {
+        "id": 11289,
+        "symbol": "SPELL",
+        "rank": 446,
+        "slug": "spell-token"
+    },
+    "SuperRare": {
+        "id": 11294,
+        "symbol": "RARE",
+        "rank": 422,
+        "slug": "superrare"
+    },
+    "Beta Finance": {
+        "id": 11307,
+        "symbol": "BETA",
+        "rank": 474,
+        "slug": "beta-finance"
+    },
+    "Mines of Dalarnia": {
+        "id": 11374,
+        "symbol": "DAR",
+        "rank": 480,
+        "slug": "mines-of-dalarnia"
+    },
+    "JOE": {
+        "id": 11396,
+        "symbol": "JOE",
+        "rank": 189,
+        "slug": "joe"
+    },
+    "Optimism": {
+        "id": 11840,
+        "symbol": "OP",
+        "rank": 27,
+        "slug": "optimism-ethereum"
+    },
+    "Arbitrum": {
+        "id": 11841,
+        "symbol": "ARB",
+        "rank": 41,
+        "slug": "arbitrum"
+    },
+    "Galxe": {
+        "id": 11877,
+        "symbol": "GAL",
+        "rank": 196,
+        "slug": "galxe"
+    },
+    "HiFi Gaming Society": {
+        "id": 11908,
+        "symbol": "HIFI",
+        "rank": 8071,
+        "slug": "hifi-gaming-society"
+    },
+    "PolyBeta Finance": {
+        "id": 12537,
+        "symbol": "BETA",
+        "rank": 7082,
+        "slug": "polybeta-finance"
+    },
+    "ssv.network": {
+        "id": 12999,
+        "symbol": "SSV",
+        "rank": 179,
+        "slug": "ssv-network"
+    },
+    "Baby Moon Floki": {
+        "id": 13074,
+        "symbol": "FLOKI",
+        "rank": 6845,
+        "slug": "baby-moon-floki"
+    },
+    "Apricot Finance": {
+        "id": 13473,
+        "symbol": "APT",
+        "rank": 4133,
+        "slug": "apricot"
+    },
+    "Worldcoin": {
+        "id": 13502,
+        "symbol": "WLD",
+        "rank": 135,
+        "slug": "worldcoin-org"
+    },
+    "Ethereum Name Service": {
+        "id": 13855,
+        "symbol": "ENS",
+        "rank": 163,
+        "slug": "ethereum-name-service"
+    },
+    "LIT": {
+        "id": 15784,
+        "symbol": "LIT",
+        "rank": 6460,
+        "slug": "lit"
+    },
+    "Gas DAO": {
+        "id": 16606,
+        "symbol": "GAS",
+        "rank": 3880,
+        "slug": "gas-dao"
+    },
+    "Maverick Protocol": {
+        "id": 18037,
+        "symbol": "MAV",
+        "rank": 353,
+        "slug": "maverick-protocol"
+    },
+    "GMT": {
+        "id": 18069,
+        "symbol": "GMT",
+        "rank": 107,
+        "slug": "green-metaverse-token"
+    },
+    "Covid Cutter": {
+        "id": 18362,
+        "symbol": "CVC",
+        "rank": 8365,
+        "slug": "covid-cutter"
+    },
+    "Tiamonds": {
+        "id": 18411,
+        "symbol": "TIA",
+        "rank": 4972,
+        "slug": "tia"
+    },
+    "ApeCoin": {
+        "id": 18876,
+        "symbol": "APE",
+        "rank": 96,
+        "slug": "apecoin-ape"
+    },
+    "Salmonation": {
+        "id": 18932,
+        "symbol": "SUI",
+        "rank": 6503,
+        "slug": "salmonation"
+    },
+    "Stargate Finance": {
+        "id": 18934,
+        "symbol": "STG",
+        "rank": 313,
+        "slug": "stargate-finance"
+    },
+    "Memeverse": {
+        "id": 18938,
+        "symbol": "MEME",
+        "rank": 8385,
+        "slug": "memeverse"
+    },
+    "Massive Protocol": {
+        "id": 19642,
+        "symbol": "MAV",
+        "rank": 2335,
+        "slug": "massive-protocol"
+    },
+    "Quickswap [New]": {
+        "id": 19966,
+        "symbol": "QUICK",
+        "rank": 600,
+        "slug": "quickswap-new"
+    },
+    "Fusotao Protocol": {
+        "id": 20203,
+        "symbol": "TAO",
+        "rank": 3620,
+        "slug": "fusotao-protocol"
+    },
+    "Terra": {
+        "id": 20314,
+        "symbol": "LUNA",
+        "rank": 110,
+        "slug": "terra-luna-v2"
+    },
+    "Rising Sun": {
+        "id": 20426,
+        "symbol": "SUN",
+        "rank": 7117,
+        "slug": "rising-sun"
+    },
+    "HyperOne": {
+        "id": 20493,
+        "symbol": "HOT",
+        "rank": 8461,
+        "slug": "hyperone"
+    },
+    "LeverFi": {
+        "id": 20873,
+        "symbol": "LEVER",
+        "rank": 532,
+        "slug": "lever"
+    },
+    "Sui": {
+        "id": 20947,
+        "symbol": "SUI",
+        "rank": 75,
+        "slug": "sui"
+    },
+    "Radiant Capital": {
+        "id": 21106,
+        "symbol": "RDNT",
+        "rank": 305,
+        "slug": "radiant-capital"
+    },
+    "ARB Protocol": {
+        "id": 21129,
+        "symbol": "ARB",
+        "rank": 5046,
+        "slug": "arb-protocol"
+    },
+    "APEmove": {
+        "id": 21172,
+        "symbol": "APE",
+        "rank": 6864,
+        "slug": "apemove"
+    },
+    "Aptos": {
+        "id": 21794,
+        "symbol": "APT",
+        "rank": 32,
+        "slug": "aptos"
+    },
+    "SPACE ID": {
+        "id": 21846,
+        "symbol": "ID",
+        "rank": 292,
+        "slug": "space-id"
+    },
+    "PepePAD": {
+        "id": 22454,
+        "symbol": "PEPE",
+        "rank": 4371,
+        "slug": "pepepad-vip"
+    },
+    "Hashflow": {
+        "id": 22461,
+        "symbol": "HFT",
+        "rank": 338,
+        "slug": "hashflow"
+    },
+    "Hooked Protocol": {
+        "id": 22764,
+        "symbol": "HOOK",
+        "rank": 298,
+        "slug": "hooked-protocol"
+    },
+    "Celestia": {
+        "id": 22861,
+        "symbol": "TIA",
+        "rank": 43,
+        "slug": "celestia"
+    },
+    "Meta Dance": {
+        "id": 22876,
+        "symbol": "MDT",
+        "rank": 2837,
+        "slug": "meta-dance"
+    },
+    "Bittensor": {
+        "id": 22974,
+        "symbol": "TAO",
+        "rank": 210,
+        "slug": "bittensor"
+    },
+    "Hifi Finance": {
+        "id": 23037,
+        "symbol": "HIFI",
+        "rank": 448,
+        "slug": "hifi-finance-new"
+    },
+    "Blur": {
+        "id": 23121,
+        "symbol": "BLUR",
+        "rank": 98,
+        "slug": "blur-token"
+    },
+    "Timeless": {
+        "id": 23236,
+        "symbol": "LIT",
+        "rank": 3963,
+        "slug": "timeless"
+    },
+    "Core": {
+        "id": 23254,
+        "symbol": "CORE",
+        "rank": 118,
+        "slug": "core-dao"
+    },
+    "PepeSol": {
+        "id": 23450,
+        "symbol": "PEPE",
+        "rank": 4816,
+        "slug": "pepesol"
+    },
+    "BinaryX": {
+        "id": 23635,
+        "symbol": "BNX",
+        "rank": 354,
+        "slug": "binaryx-new"
+    },
+    "Cyberpunk City": {
+        "id": 23879,
+        "symbol": "CYBER",
+        "rank": 4173,
+        "slug": "cyberpunk-city"
+    },
+    "OneDex": {
+        "id": 24085,
+        "symbol": "ONE",
+        "rank": 3053,
+        "slug": "onedex"
+    },
+    "SincroniX": {
+        "id": 24157,
+        "symbol": "SNX",
+        "rank": 6016,
+        "slug": "sincronix"
+    },
+    "Chronos": {
+        "id": 24158,
+        "symbol": "CHR",
+        "rank": 5284,
+        "slug": "chronos-arbitrum"
+    },
+    "Ethos Reserve Note": {
+        "id": 24370,
+        "symbol": "ERN",
+        "rank": 3068,
+        "slug": "ethos-reserve-note"
+    },
+    "Sui (IOU)": {
+        "id": 24441,
+        "symbol": "SUI",
+        "rank": 3061,
+        "slug": "sui-iou"
+    },
+    "Pepe": {
+        "id": 24478,
+        "symbol": "PEPE",
+        "rank": 102,
+        "slug": "pepe"
+    },
+    "Arbi pepe": {
+        "id": 24549,
+        "symbol": "PEPE",
+        "rank": 8715,
+        "slug": "arbi-pepe"
+    },
+    "Open Campus": {
+        "id": 24613,
+        "symbol": "EDU",
+        "rank": 246,
+        "slug": "open-campus"
+    },
+    "CyberConnect": {
+        "id": 24781,
+        "symbol": "CYBER",
+        "rank": 415,
+        "slug": "cyberconnect"
+    },
+    "PepeCoin": {
+        "id": 25912,
+        "symbol": "PEPE",
+        "rank": 5309,
+        "slug": "pepecoinbsc"
+    },
+    "ORDI": {
+        "id": 25028,
+        "symbol": "ORDI",
+        "rank": 56,
+        "slug": "ordi"
+    },
+    "PEPEBSC": {
+        "id": 25057,
+        "symbol": "PEPE",
+        "rank": 8747,
+        "slug": "pepebsc"
+    },
+    "MEME": {
+        "id": 25078,
+        "symbol": "MEME",
+        "rank": 6103,
+        "slug": "meme-bsc"
+    },
+    "MEME (Ordinals)": {
+        "id": 25159,
+        "symbol": "MEME",
+        "rank": 3035,
+        "slug": "memesonbitcoin"
+    },
+    "GOATs of Sui": {
+        "id": 25169,
+        "symbol": "SUI",
+        "rank": 6002,
+        "slug": "goats-of-sui"
+    },
+    "Pepe Coin": {
+        "id": 25359,
+        "symbol": "PEPE",
+        "rank": 5385,
+        "slug": "pepe-coin-bsc2"
+    },
+    "Antspace": {
+        "id": 25513,
+        "symbol": "ANT",
+        "rank": 5181,
+        "slug": "antspace"
+    },
+    "ONE Token": {
+        "id": 25966,
+        "symbol": "ONE",
+        "rank": 4524,
+        "slug": "onetoken"
+    },
+    "TOOLY I Am King": {
+        "id": 26896,
+        "symbol": "DOGE",
+        "rank": 2324,
+        "slug": "tooly-i-am-king"
+    },
+    "Doge on Pulsechain": {
+        "id": 27134,
+        "symbol": "DOGE",
+        "rank": 5351,
+        "slug": "doge-on-pulsechain"
+    },
+    "X AI": {
+        "id": 28376,
+        "symbol": "GROK",
+        "rank": 5427,
+        "slug": "grok-gd"
+    },
+    "HarryPotterObamaPacMan8Inu": {
+        "id": 27809,
+        "symbol": "XRP",
+        "rank": 1742,
+        "slug": "harrypotterobamapacman8inu"
+    },
+    "Pepe Community": {
+        "id": 27928,
+        "symbol": "PEPE",
+        "rank": 2715,
+        "slug": "pepe-community"
+    },
+    "NicCageWaluigiElmo42069Inu": {
+        "id": 27930,
+        "symbol": "SHIB",
+        "rank": 5303,
+        "slug": "niccagewaluigielmo42069inu"
+    },
+    "MEMETOON": {
+        "id": 28111,
+        "symbol": "MEME",
+        "rank": 539,
+        "slug": "memetoon"
+    },
+    "Joe Coin": {
+        "id": 28292,
+        "symbol": "JOE",
+        "rank": 6442,
+        "slug": "joe-coin-bsc"
+    },
+    "dYdX (Native)": {
+        "id": 28324,
+        "symbol": "DYDX",
+        "rank": 2834,
+        "slug": "dydx-chain"
+    },
+    "Verge (ETH)": {
+        "id": 28354,
+        "symbol": "XVG",
+        "rank": 3365,
+        "slug": "verge-eth"
+    },
+    "Grok": {
+        "id": 28394,
+        "symbol": "GROK",
+        "rank": 2276,
+        "slug": "grok-erc"
+    },
+    "GROK": {
+        "id": 28606,
+        "symbol": "GROK",
+        "rank": 8965,
+        "slug": "grokcoin"
+    },
+    "DOGE SATELLITE INU": {
+        "id": 28384,
+        "symbol": "DOGE",
+        "rank": 7260,
+        "slug": "doge-satellite-inu"
+    },
+    "DOGECOIN X": {
+        "id": 28438,
+        "symbol": "DOGE",
+        "rank": 6114,
+        "slug": "dogecoin-x"
+    },
+    "Joe coin": {
+        "id": 28504,
+        "symbol": "JOE",
+        "rank": 2991,
+        "slug": "joe-coin"
+    },
+    "Ada": {
+        "id": 28835,
+        "symbol": "ADA",
+        "rank": 3563,
+        "slug": "ada"
+    },
+    "SPACE DOGE": {
+        "id": 28872,
+        "symbol": "DOGE",
+        "rank": 4884,
+        "slug": "space-doge"
+    },
+    "pepewifhat": {
+        "id": 28892,
+        "symbol": "PEPE",
+        "rank": 3675,
+        "slug": "pepewifhat"
+    }
+}
