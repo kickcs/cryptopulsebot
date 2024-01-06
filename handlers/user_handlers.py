@@ -11,12 +11,6 @@ router = Router()
 async def cmd_start(message: Message, bot: Bot, scheduler: AsyncIOScheduler):
     user_id = message.from_user.id
     await message.answer("Привет! Я бот для отслеживания изменения цены монеты.")
-    scheduler.add_job(send_message,
-                      'interval',
-                      seconds=20,
-                      kwargs={'bot': bot,
-                              'chat_id': user_id,
-                              'text': 'Привет! Я бот для отслеживания изменения цены монет.'})
 
 
 @router.message(Command('coins'))
